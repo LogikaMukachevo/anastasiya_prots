@@ -1,0 +1,75 @@
+body {
+    font-family: COMIC SANS MS;
+}
+
+h1{
+   background-image: linear-gradient(#5C8BAB, #C6D6E0,#5C8BAB );
+   text-align: center;
+   color: white;
+   font-size: 50px;
+   position: relative;
+}
+.img{
+    height:95px;
+    width:135px;
+    position: absolute;
+    top:-5px;
+    left: 70px;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+h4{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    padding-bottom: 30px;
+}
+.div{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLiWRd6UfGmL5HB4NxO_Ak2ZL2j6xX4JTTGw&s');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.h22{
+    text-align: center;
+    font-size: 50px;
+    color: black;
+}
+.ppp{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    background-color: #D1E4F1;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    
+}
+.iii{
+    width: 600px;
+    height:400px ;
+    display: block;
+    margin: 0 auto;
+}
+.info{
+    background-color: #CCDAE4;
+    margin: 40px;
+
+}
+.p{
+    text-align: center;
+    font-size: 20px;
+}
+.pp{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+footer{
+    background-color: #82A8C2;
+    padding: 20px;
+}
